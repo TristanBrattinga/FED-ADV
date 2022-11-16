@@ -36,8 +36,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  Lars Amsterdam
+  https://larsamsterdam.nl/
+  
+  Playstation
+  https://www.playstation.com/nl-nl/?emcid=pa-co-422294&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jei-leWB1VhR1qP7ECmOvxLZzve-5scrixoYRFwXtnluMkhaAaC6YQaAgg9EALw_wcB&gclsrc=aw.ds
+  
+  
+  
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
