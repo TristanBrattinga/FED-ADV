@@ -35,10 +35,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
-  ### Je opdracht:
-  Lars Amsterdam
-  https://larsamsterdam.nl/
-  
+  ### Je opdracht:m,
   Playstation
   https://www.playstation.com/nl-nl/?emcid=pa-co-422294&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jei-leWB1VhR1qP7ECmOvxLZzve-5scrixoYRFwXtnluMkhaAaC6YQaAgg9EALw_wcB&gclsrc=aw.ds
   
@@ -66,7 +63,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  <strong><strong>
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
