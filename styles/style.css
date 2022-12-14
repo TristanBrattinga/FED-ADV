@@ -1,34 +1,241 @@
-/**************/
-/* CSS REMEDY */
-/**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
-}
-
-button, summary {
-	cursor: pointer;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "sst", Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
 }
 
 
-
-
-
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
 :root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+    --text-color: white;
+    --main-button-color: rgba(0, 112, 204, 1);
+    --button-text-color: white;
+    --standard-background-color: white;
+    --nav-text-color: #1f1f1f;
+}
+
+/* GENERIC ELEMENT STYLING */
+
+body {
+    position: relative;
+}
+
+h2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    font-family: "sst", Arial, Helvetica, sans-serif;
+}
+
+header  {
+    position: sticky;
+    top: 0;
+
+    background-color: var(--standard-background-color);
+    
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 3.75em;
+}
+
+header img {
+    width: 3em;
+}
+
+button {
+    background-color: var(--main-button-color);
+    color: var(--button-text-color);
+    padding: 10px 14px;
+    border-radius: 1.5em;
+    
+    font-size: 0.875em;
+    font-weight: 600;
+    border: none;
+}
+
+section {
+    text-align: center;
+}
+
+section img {
+    width: 100%;
 }
 
 
 
 
 
-/****************/
-/* JOUW STYLING */
-/****************/
 
-/* jouw code */
+/* SECTION 1 STYLING */
 
+section:first-of-type p {
+    font-size: 18px;
+    color: var(--text-color);
+    top: 20em;   
+}
+
+/* SECTION 2 STYLING */
+
+section:nth-of-type(2) img {
+    width: 80%;
+}
+
+section:nth-of-type(2) button {
+    margin: .25em .25em 2.125em .25em;
+}
+
+section:nth-of-type(2) p {
+    margin-top: 1em;
+    margin-bottom: 1.875em;
+}
+
+section:nth-of-type(2) h2 {
+    font-size: 1.625em;
+    font-weight: 300;
+}
+
+/* SECTION 3 STYLING */
+
+
+
+/* SECTION 4 STYLING */
+
+
+/* SECTION 5 STYLING */
+
+
+/* SECTION 6 STYLING */
+
+
+/* SECTION 7 STYLING */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* NAV MENU HAMBURGER STYLE */
+
+nav ul {
+    display: none;
+}
+
+nav ul li {
+    list-style: none;
+    margin-bottom: 1.9375em;
+    text-align: center;
+}
+
+nav ul li a{
+    font-size: 1em;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--nav-text-color);
+}
+
+
+ /* HAMBURGER MENU STYLING  */
+ 
+ header nav button:first-of-type {
+     display: grid;
+     place-items: center;
+    width: 2.5em;
+    aspect-ratio: 1/1;
+    padding: 0;
+    border-radius: 0;
+    cursor: pointer;
+}
+
+
+
+header nav button span {
+    grid-row-start: 1;
+    grid-column-start: 1;
+    
+    width: 1.2em;
+    height: .2em;
+    background-color: var(--standard-background-color);
+    
+    transition-duration: .5s;
+}
+
+header nav button span:first-of-type {
+    transform: translateY(-.4em);
+}
+
+header nav button span:last-of-type {
+    transform: translateY(.4em);
+}
+
+header nav button.showMenu span:first-of-type {
+    transform: rotate(45deg) scaleX(1.25);
+}
+
+header nav button.showMenu span:nth-of-type(2) {
+    opacity: 0;
+}
+
+header nav button.showMenu span:nth-of-type(3) {
+    transform: rotate(-45deg) scaleX(1.25);
+}
+
+body.hamburgerMenu {
+    overflow: hidden;
+}
+
+body.hamburgerMenu nav ul {
+    display: block;
+    position: absolute;
+    top: 3.75em;
+    left: 0;
+    background-color: var(--standard-background-color);
+    width: 100vw;
+    height: 100vh;
+    padding-top: 1em;
+}
+
+body.hamburgerMenu header {
+    z-index: 999;
+    top: -10px;
+    box-shadow: 0 .1em .1em var(--nav-text-color);
+}
