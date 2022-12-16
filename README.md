@@ -43,11 +43,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Playstation Homepage  
-  <img src="readme-images/playstation-pagina1" width="375px" alt="Playstation Homepage screenshot (small screen)">
+  <img src="./readme-images/playstation-pagina1" width="375px" alt="Playstation Homepage screenshot (small screen)">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Playstation Games Page  
-  <img src="readme-images/playstation-pagina2" width="375px" alt="Playstation games page screenshot (small screen)">
+  <img src="./readme-images/playstation-pagina2" width="375px" alt="Playstation games page screenshot (small screen)">
  
 </details>
 
@@ -94,14 +94,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
+  <img src="readme-images/dynamischdeel.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  
 </details>
 
 
