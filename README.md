@@ -43,11 +43,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Playstation Homepage  
-  <img src="readme-images/playstation-pagina1.jpg" width="375px" alt="Playstation Homepage screenshot (small screen)">
+  <img src="readme-images/playstation-pagina1.jpeg" width="375px" alt="Playstation Homepage screenshot (small screen)">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Playstation Games Page  
-  <img src="readme-images/playstation-pagina2.jpg" width="375px" alt="Playstation games page screenshot (small screen)">
+  <img src="readme-images/playstation-pagina2.jpeg" width="375px" alt="Playstation games page screenshot (small screen)">
  
 </details>
 
