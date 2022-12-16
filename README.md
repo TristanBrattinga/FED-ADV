@@ -43,11 +43,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Playstation Homepage  
-  <img src="readme-images/playstation-pagina1" width="375px" alt="Playstation Homepage screenshot (small screen)">
+  <img src="readme-images/playstation-pagina1.jpg" width="375px" alt="Playstation Homepage screenshot (small screen)">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Playstation Games Page  
-  <img src="readme-images/playstation-pagina2" width="375px" alt="Playstation games page screenshot (small screen)">
+  <img src="readme-images/playstation-pagina2.jpg" width="375px" alt="Playstation games page screenshot (small screen)">
  
 </details>
 
@@ -192,13 +192,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  - swipen lukt
+  - zoomen lukt
+  - typen gaat moeilijker
+  - tabben gaat heel makkelijk door de site
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  - p tekst is een beetje klein en moeilijk te lezen met de peripheral field loss bril
+  - Bij de Hemifield Loss bril is er eigenlijk geen beperking
+  - Bij de blur bril is tekst helemaal niet leesbaar, grotere plaatjes zijn wel zichtbaar maar ook met een kleine vervaging
+  - Bij central field loss verlies je alles in het midden van het scherm maar de rest eromheen is wel te zien, hier kan dan bijvoorbeeld meer focus op worden gelegd.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -251,13 +257,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Alles ging wel goed en veel nieuwe dingen geleerd over CSS die ik normaal niet zo snel zou uitvogelen. Jammer dat ik het alleen niet af heb :(
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Door tijdsgebrek heb ik het helaas niet af kunnen krijgen. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -273,8 +279,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.playstation.com/nl-nl/ voor alle content 
+  2. 
 
 </details>
