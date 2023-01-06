@@ -35,7 +35,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
-  ### Je opdracht:m,
+  ### Je opdracht:
   Playstation
   https://www.playstation.com/nl-nl/?emcid=pa-co-422294&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jei-leWB1VhR1qP7ECmOvxLZzve-5scrixoYRFwXtnluMkhaAaC6YQaAgg9EALw_wcB&gclsrc=aw.ds
   
@@ -159,7 +159,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  
+  Het opstarten met het bouwen van mijn website ging een beetje moeizaam. Ik wist niet zo goed waar ik moest beginnen, maar ik heb nu wel een basisstructuur opgezet. De structuur van de echte Playstation website is best moeilijk te ontcijferen. Er worden veel dingen gebruikt die ik niet ken en/of niet mag gebruiken. Hierdoor leer ik wel hoe ik dit op een duidelijke manier moet kunnen doen. 
+  
+  Ik heb wel heel goed de gemaakte opdrachten kunnen toepassen op mijn project. Door de flexbox en grid oefeningen heb ik makkelijker mijn nav menu en main op kunnen zetten. Het maken van de opdrachten gaat mij heel goed af en heb hier niet echt moeite mee. Alleen stappen maken met mijn website gaan wat moeizaam.
+  
+  <img src="" width="375px" alt="">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -174,10 +179,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik moet echt snel stappen gaan maken om bij te blijven. Goed dat ik de opdrachten maak, maar er moet ook vordering in mijn website komen om tot een eindproduct te komen.
+  - Goede semantische HTML opgezet en netjes ingesprongen.
+  - Niet te moeilijk proberen te maken voor mezelf.
+  - Goed nadenken over hoe ik de heading levels en section/article structuur moet verbeteren van de Playstation website. Dit is namelijk niet goed op de originele site.
 
 </details>
 
