@@ -164,7 +164,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Ik heb wel heel goed de gemaakte opdrachten kunnen toepassen op mijn project. Door de flexbox en grid oefeningen heb ik makkelijker mijn nav menu en main op kunnen zetten. Het maken van de opdrachten gaat mij heel goed af en heb hier niet echt moeite mee. Alleen stappen maken met mijn website gaan wat moeizaam.
   
-  <img src="" width="375px" alt="">
+  <img src="readme-images/website1.png" width="375px" alt="Foto van website in week 2">
+  <img src="readme-images/code1.png" width="375px" alt="Foto van code in week 2">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -174,15 +175,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
+  
+  De tabel hierboven is niet ingevuld, omdat mijn groepje en ik dit niet echt goed hebben gevolgd. We hebben eigenlijk alles individueel gedaan, dus vandaar dat ik hieronder mijn vragen voor het voortgangsgesprek heb opgesomd:
+  - ntb
+  - ntb
+  - ntb
+  - ntb
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Ik moet echt snel stappen gaan maken om bij te blijven. Goed dat ik de opdrachten maak, maar er moet ook vordering in mijn website komen om tot een eindproduct te komen.
+  - Ik moet echt snel stappen gaan maken om bij te blijven. Goed dat ik de opdrachten maak, maar er moet ook vordering in mijn website komen om tot een eindproduct te     komen.
   - Goede semantische HTML opgezet en netjes ingesprongen.
   - Niet te moeilijk proberen te maken voor mezelf.
-  - Goed nadenken over hoe ik de heading levels en section/article structuur moet verbeteren van de Playstation website. Dit is namelijk niet goed op de originele site.
+  - Goed nadenken over hoe ik de heading levels en section/article structuur moet verbeteren van de Playstation website. Dit is namelijk niet goed op de originele         site.
+  
+  Antwoorden op mijn vragen:
+  - ntb
+  - ntb
+  - ntb
 
 </details>
 
