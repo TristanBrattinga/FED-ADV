@@ -77,7 +77,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   <strong>De screenreader werkt niet heel optimaal op de Playstation website. Het is niet duidelijk waar de Narrator zich bevindt en wat het precies aan het oplezen     is. De Narrator blijft maar doorgaan zonder enig idee wat er wordt verteld. Sommige sections op de website gaat de narrator wel goed af op volgorde en sommige         sections pakt het niet. Ook worden er geen heading levels aangegeven door de Narrator.<strong>
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/screenreader.png" width="375px" alt="headings niet getoond">
   
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
@@ -85,9 +85,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Een betere structuur opzetten in de HTML met betere labels en headings. 
   - Onderdelen waar een carrousel is om content uit te lichten gaan helemaal niet goed met de Narrator. Ik     zou niet zo goed weten hoe dit opgelost zou kunnen           worden.
   - Duidelijkere verdeling geven in de sections om te zorgen dat dit logischer wordt opgelezen. Zo komt er meer structuur in de website.
-  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
