@@ -70,7 +70,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Tabben door de website gaat heel gemakkelijk en duidelijk.
   - Heading levels zijn niet helemaal correct.
   - Focus state is bij sommige elementen goed te zien en bij sommige elementen niet. Bijv. in de footer is de focus state helemaal niet te zien.
-  - Er zijn weinig animaties op de website waardoor het voor de meerderheid van de gebruikers fijn te gebruiken.
+  - Er zijn weinig animaties op de website waardoor het voor de meerderheid van de gebruikers fijn te gebruiken is.
   
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -100,7 +100,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - In de footer moet er een duidelijkere focus, hover en active state worden aangegeven. Dit kan door een border of een andere text color.
   - Op mobile screen size is het menu niet te bedienen met tabben. Je kan wel zien dat er achter het menu door de website wordt getabt. Dus het hamburger menu wordt       over de body heen gelegd. Dit zou op een andere manier moeten om te zorgen dat hier doorheen getabt kan worden. 
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/hamburgermenu1.png" width="375px" alt="niet mogelijk...">
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -110,27 +110,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   De shockmachine viel bijna niet mee te werken. Je motoriek wordt zodanig aangepast dat bediening met de muis bijna onmogelijk is. Tabben door de website kan ook maar   gaat soms sneller dan je wilt. Typen gaat ook heel moeilijk omdat er vaak verkeerde toetsen worden ingedrukt.
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/motoriek8.jpg" width="375px" alt="vervelend">
+  <img src="readme-images/motoriek9.jpg" width="375px" alt="vervelend">
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   
   - De elastiekjes beperking kan niet echt opgelost worden, want er valt al omheen te werken. Deze beperking is amper te merken en je zou hier via het web denk ik niet     echt hulpmiddelen of verbeteringen voor kunnen bedenken.
   - Voor de shockmachine is het ook heel moeilijk om oplossingen te bedenken. Het enige wat de meeste obstakels zou kunnen verhelpen is het gebruik van spraak om door     de website te navigeren en te typen. Verder zou een mindergevoelige scrollbar of wieltje op de muis het makkelijk maken om door de website te navigeren.
-  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
   De visuele beperkingen waren heel verschillend. Bij de ene bril merkte je heel weinig beperking in het bezoeken van de website en bij sommige juist weer wel heel       erg. Op de Playstation website was er niet heel veel problemen om de website te bezoeken met kleurenblindheid. Alleen sommige plaatjes kwamen niet goed naar voren.
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/visueel1.jpg" width="375px" alt="wel te doen">
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   
   - Er zou een toggle button gemaakt kunnen worden op de website om verschillende kleurenblindheden te bedienen zodat de website normaal kan worden bekeken.
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/visueel2.jpg" width="375px" alt="hihi">
   
 </details>
 
