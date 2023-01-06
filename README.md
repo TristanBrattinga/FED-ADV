@@ -60,10 +60,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  - Sommige beperkingen zijn niet zo erg op het web, maar sommige zijn bijna niet mee te werken.
+  - Tabben door de website gaat heel gemakkelijk en duidelijk.
+  - Heading levels zijn niet helemaal correct.
+  - Focus state is bij sommige elementen goed te zien en bij sommige elementen niet. Bijv. in de footer is de focus state helemaal niet te zien.
+  - Er zijn weinig animaties op de website waardoor het voor de meerderheid van de gebruikers fijn te gebruiken.
+  
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  <strong><strong>
+  <strong>De screenreader werkt niet heel optimaal op de Playstation website. Het is niet duidelijk waar de Narrator zich bevindt en wat het precies aan het oplezen is. De Narrator blijft maar doorgaan zonder enig idee wat er wordt verteld.<strong>
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
@@ -181,7 +186,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
