@@ -91,7 +91,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Alles is goed te navigeren met het toetsenbord. De focus state is duidelijk te zien bij de meeste interactieve elementen. De elementen worden ook in een logische       volgorde geselecteerd. De dropdown menu's zijn ook makkelijk te bereiken via tabben. Alleen op mobile screen size is het niet mogelijk in het menu te komen d.m.v.     tabben. Ook met de muis zijn de hover states goed en duidelijk te zien. Ook de active state komt goed over. Alleen in de footer is het niet mogelijk om te zien wat     je selecteert met het toetsenbord. Ook met de muis is dit niet duidelijk.
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/hover1.png" width="375px" alt="hover image">
+  <img src="readme-images/focus1.png" width="375px" alt="focus image">
+  
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   
