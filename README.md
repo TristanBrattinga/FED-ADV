@@ -43,11 +43,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Playstation Homepage  
-  <img src="readme-images/playstation-pagina1.jpeg" width="375px" alt="Playstation Homepage screenshot (small screen)">
+  
+  (klik op de image want heb ze verkleind om niet eindeloos te moeten scrollen door de readme)
+  
+  <img src="readme-images/playstation-pagina1.jpeg" height="375px" alt="Playstation Homepage screenshot (small screen)">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Playstation Games Page  
-  <img src="readme-images/playstation-pagina2.jpeg" width="375px" alt="Playstation games page screenshot (small screen)">
+  
+  (klik op de image want heb ze verkleind om niet eindeloos te moeten scrollen door de readme)
+  
+  <img src="readme-images/playstation-pagina2.jpeg" height="375px" alt="Playstation games page screenshot (small screen)">
  
 </details>
 
@@ -68,27 +74,65 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  <strong>De screenreader werkt niet heel optimaal op de Playstation website. Het is niet duidelijk waar de Narrator zich bevindt en wat het precies aan het oplezen is. De Narrator blijft maar doorgaan zonder enig idee wat er wordt verteld.<strong>
+  
+  <strong>De screenreader werkt niet heel optimaal op de Playstation website. Het is niet duidelijk waar de Narrator zich bevindt en wat het precies aan het oplezen     is. De Narrator blijft maar doorgaan zonder enig idee wat er wordt verteld. Sommige sections op de website gaat de narrator wel goed af op volgorde en sommige         sections pakt het niet. Ook worden er geen heading levels aangegeven door de Narrator.<strong>
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
+  - Een betere structuur opzetten in de HTML met betere labels en headings. 
+  - Onderdelen waar een carrousel is om content uit te lichten gaan helemaal niet goed met de Narrator. Ik     zou niet zo goed weten hoe dit opgelost zou kunnen           worden.
+  - Duidelijkere verdeling geven in de sections om te zorgen dat dit logischer wordt opgelezen. Zo komt er meer structuur in de website.
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  
+  Alles is goed te navigeren met het toetsenbord. De focus state is duidelijk te zien bij de meeste interactieve elementen. De elementen worden ook in een logische       volgorde geselecteerd. De dropdown menu's zijn ook makkelijk te bereiken via tabben. Alleen op mobile screen size is het niet mogelijk in het menu te komen d.m.v.     tabben. Ook met de muis zijn de hover states goed en duidelijk te zien. Ook de active state komt goed over. Alleen in de footer is het niet mogelijk om te zien wat     je selecteert met het toetsenbord. Ook met de muis is dit niet duidelijk.
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
+  - In de footer moet er een duidelijkere focus, hover en active state worden aangegeven. Dit kan door een border of een andere text color.
+  - Op mobile screen size is het menu niet te bedienen met tabben. Je kan wel zien dat er achter het menu door de website wordt getabt. Dus het hamburger menu wordt       over de body heen gelegd. Dit zou op een andere manier moeten om te zorgen dat hier doorheen getabt kan worden. 
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  
+  De elastiekjes waren niet echt een acurate beperking. Het is nog steeds heel goed mogelijk om door de website te navigeren. Alleen met het gebruiken van de muis moet 
+  je je ringvinger gebruiken om de rechterknop in te drukken. Verder was tabben en scrollen heel goed mogelijk.
+  
+  De shockmachine viel bijna niet mee te werken. Je motoriek wordt zodanig aangepast dat bediening met de muis bijna onmogelijk is. Tabben door de website kan ook maar   gaat soms sneller dan je wilt. Typen gaat ook heel moeilijk omdat er vaak verkeerde toetsen worden ingedrukt.
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
+  - De elastiekjes beperking kan niet echt opgelost worden, want er valt al omheen te werken. Deze beperking is amper te merken en je zou hier via het web denk ik niet     echt hulpmiddelen of verbeteringen voor kunnen bedenken.
+  - Voor de shockmachine is het ook heel moeilijk om oplossingen te bedenken. Het enige wat de meeste obstakels zou kunnen verhelpen is het gebruik van spraak om door     de website te navigeren en te typen. Verder zou een mindergevoelige scrollbar of wieltje op de muis het makkelijk maken om door de website te navigeren.
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  
+  De visuele beperkingen waren heel verschillend. Bij de ene bril merkte je heel weinig beperking in het bezoeken van de website en bij sommige juist weer wel heel       erg. Op de Playstation website was er niet heel veel problemen om de website te bezoeken met kleurenblindheid. Alleen sommige plaatjes kwamen niet goed naar voren.
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
+  - Er zou een toggle button gemaakt kunnen worden op de website om verschillende kleurenblindheden te bedienen zodat de website normaal kan worden bekeken.
+  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
 </details>
 
 
